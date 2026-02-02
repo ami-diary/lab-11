@@ -1,5 +1,5 @@
 package tests;
-
+// Практическая работа №11. Тесты для формы логина.
 // 1. Импорты
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
